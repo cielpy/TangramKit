@@ -88,5 +88,6 @@ Pod::Spec.new do |s|
   s.source_files  = "TangramKit/*.{swift}"
   #s.exclude_files = "Classes/Exclude"
 
+  s.swift_version = '3.3'
 
 end
